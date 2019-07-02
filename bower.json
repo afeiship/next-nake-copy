@@ -1,0 +1,28 @@
+{
+  "name": "next-nake-copy",
+  "version": "0.0.1",
+  "description": "Copy for nake task",
+  "main": "dist/next-nake-copy.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-nake-copy",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
