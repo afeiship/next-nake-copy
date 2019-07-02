@@ -8,7 +8,9 @@ npm install -S afeiship/next-nake-copy --registry=https://registry.npm.taobao.or
 
 ## usage
 ```js
-//DOCS here!
+import nxNakeCopy from 'next-nake-copy';
+
+nxNakeCopy(['test/*.html'], './.tmp');
 ```
 
 
